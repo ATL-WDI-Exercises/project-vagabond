@@ -59,7 +59,7 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 Each group has an assigned instructor or IA, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Group 1 - Maren/Ed
+#### Group 1 - Maren
 * John
 * Kim
 * Ramata 
