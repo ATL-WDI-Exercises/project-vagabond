@@ -65,24 +65,24 @@ Each group has an assigned instructor or IA, who will act as your client as well
 * Ramata 
 * Nick
 
-#### Group 2 
+#### Group 2 - Shawn
 * Katie
 * Austin
-* Josh
+* Philip
 * Stephanie
 
-#### Group 3
+#### Group 3 - Shawn
 * Christina
 * Van
 * Jungmin
 * Jacob
 
-#### Group 4
+#### Group 4 - Ben
 * Perry
 * Waller
-* Philip
+* Josh
 
-#### Group 5
+#### Group 5 - Ben
 * Brendan
 * Lisa
 * Chris
