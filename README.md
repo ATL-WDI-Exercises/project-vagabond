@@ -97,6 +97,7 @@ Each member of your group should speak for equal parts during your presentation 
 **Your presentation should include:**
 
 * [Pitch Deck](http://bestpitchdecks.com/) (a link to the best pitch decks)
+  * [Haiku Deck](https://www.haikudeck.com/)
 * Tour (demo) of your app deployed on heroku.
 * How did your group approach the requirements? (mention anything unique or creative your group chose to do)
 * What was easier than you thought? What was more challenging?
