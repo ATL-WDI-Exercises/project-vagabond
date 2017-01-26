@@ -20,7 +20,7 @@ The client contract consists of three core sprints and four bonus sprints. Each 
 
 **IMPORTANT:** You may not begin a new sprint or start on a bonus without client approval.
 
-You will work in groups of 3-4, and we expect you to **pair program** for the majority of the time you're writing code.
+You will work in groups of 3-4.
 
 During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks ([example Trello board](https://trello.com/b/JPdt327u/vagabond)).
 
@@ -50,9 +50,9 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 3. **Which models do you need to implement?** Create an ERD for the client to reference.
 
-4. **What are the major milestones or components that you need to complete?** How can these be turned into tasks that group members can complete in pairs? Where do these milestones overlap and how will those related tasks be managed?
+4. **What are the major milestones or components that you need to complete?** How can these be turned into tasks that group members can complete, either by themselves or in pairs? Where do these milestones overlap and how will those related tasks be managed?
 
-5. **What milestones are you and your group members interested in working on?** How can you effectively delegate the work into pairs so that each group member is interested, challenged, and productive?
+5. **What milestones are you and your group members interested in working on?** How can you effectively delegate the work so that each group member is interested, challenged, and productive?
 
 
 ## Groups
@@ -109,7 +109,6 @@ You will be evaluated on the following measures:
 
 1. Project workflow
   - frequent commits with good commit messages
-  - cooperative group work including majority of pair programing
   - effective use of branches
   - planning to avoid excessive merge conflicts
   - deliberate approach - routeside-in, logical progress from skateboard to car
