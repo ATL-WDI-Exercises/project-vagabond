@@ -67,9 +67,9 @@ Each group has an assigned instructor or IA, who will act as your client as well
 
 #### Group 2 - Shawn
 * Katie
-* Austin
 * Philip
 * Stephanie
+* Austin
 
 #### Group 3 - Shawn
 * Christina
