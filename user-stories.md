@@ -74,6 +74,8 @@ A user CANNOT save invalid data to the database, according to the following rule
 ---
 
 ## Sprint 4: Commenting
+1. Comment your code!!!
+  * 
 
 ### Bonuses
 
