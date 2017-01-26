@@ -1,8 +1,10 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project Vagabond
 
+
 ## Brief
 
 We have been commissioned to build a travel community, code-named **Project Vagabond** for now, for users to share tips (AKA posts) about their favorite locations around the world.
+
 
 ## Client Contract
 
@@ -10,6 +12,7 @@ The client has provided basic wireframes and user stories. In some cases, these 
 
 * [Wireframes](./wireframes.png)
 * [User Stories](./user-stories.md)
+
 
 ## Process
 
@@ -38,6 +41,7 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 * Commenting
 * DRYness
 
+
 ## Questions to Ask Yourselves
 
 1. **Are you all clear about what the client wants?** Identify vague areas. Seek clarification in any cases where you feel less confident about your interpretation of the client's vision.
@@ -50,28 +54,54 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 5. **What milestones are you and your group members interested in working on?** How can you effectively delegate the work into pairs so that each group member is interested, challenged, and productive?
 
+
 ## Groups
 
 Each group has an assigned instructor or IA, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Team \#1 - TODO: INSTRUCTOR
-* TODO: STUDENT
-* TODO: STUDENT
+#### Group 1
+* John
+* Kim
+* Ramata 
+* Nick
+
+#### Group 2
+* Katie
+* Austin
+* Josh
+
+#### Group 3
+* Christina
+* Van
+* Jacob
+* Jungmin
+
+#### Group 4
+* Perry
+* Waller
+* Philip
+
+#### Group 5
+Brendan
+Lisa
+Stephanie
+Chris
 
 
 ## Presentation
 
-Each group will present their project on **TODO: WEEKDAY, MONTH DAY** starting at **TODO: TIME** for 10 minutes.
+Each group will present their project on **Monday, 1/30** starting at **10am TIME** for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
 **Your presentation should include:**
 
+* Pitch Deck
 * Tour (demo) of your app deployed on heroku.
 * How did your group approach the requirements? (mention anything unique or creative your group chose to do)
 * What was easier than you thought? What was more challenging?
-* What is a lesson you will carry forward to working on Project 2?
 * Shout outs for fellow students!
+
 
 ## Evaluation
 
