@@ -24,7 +24,7 @@ You will work in groups of 3-4.
 
 During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks.
 
-Commit changes at least once for each user story. Consider creating **automated tests** or even implementing TDD for any complex application behavior.
+Commit changes at least once for each user story.
 
 Put effort into your **design**. Use a CSS framework (e.g. Bootstrap), partials, and some custom CSS or Sass/Less.
 
