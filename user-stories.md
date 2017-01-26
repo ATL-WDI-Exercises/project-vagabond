@@ -18,15 +18,15 @@
 **A user should be able to:**
 
 1. Link to other pages from homepage.
-1. View the "San Francisco" page (at "/cities/1") including:
+1. View the "Atlanta" page (at "/cities/1") including:
   * The site-wide header.
   * The name of the city.
   * An iconic photo of the city.
-1. View a list of posts on the San Francisco page:
+1. View a list of posts on the Atlanta page:
   * Sorted by newest first.
   * With the post titles linked to the individual post "show" pages.
-1. Use an "Add New Post" button on the San Francisco city page to pull up the new post form.
-1. Create a new post for San Francisco (**Hint:** <a href="http://guides.rubyonrails.org/routing.html#nested-resources" target="_blank">nested resources</a>).
+1. Use an "Add New Post" button on the Atlanta city page to pull up the new post form.
+1. Create a new post for Atlanta (**Hint:** <a href="http://guides.rubyonrails.org/routing.html#nested-resources" target="_blank">nested resources</a>).
 1. Click "Edit" on ANY individual post, and be redirected to the edit form.
 1. Click "Delete" on ANY individual post, then:
   * See a pop-up that says: "Are you sure you want to delete #{title}?"
@@ -36,7 +36,7 @@
 
 **A user should be able to:**
 
-1. Visit city pages via pretty urls, like "/cities/san-francisco".
+1. Visit city pages via pretty urls, like "/cities/atlanta".
   * Check out https://github.com/norman/friendly_id
 1. On a city's page:
   * See post content truncated to 1000 characters max, with a link to view more.
@@ -48,7 +48,7 @@
 
 **A user should be able to:**
 
-1. View city pages for "London" and "Gibraltar".
+1. View city pages for "London" and "San Francisco".
 1. Verify that a new post they create is successfully published on the correct city page.
 
 A user CANNOT save invalid data to the database, according to the following rules:
@@ -81,6 +81,8 @@ A user CANNOT save invalid data to the database, according to the following rule
 
 **A user should be able to:**
 
+1. Log in/Sign up
 1. Comment on individual posts.
+1. Have comments associated with a specific user.
 1. See the number of comments a post has on the post's "show" page.
 1. See the number of comments they've left, on their public profile.
