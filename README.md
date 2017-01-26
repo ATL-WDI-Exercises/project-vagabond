@@ -82,10 +82,10 @@ Each group has an assigned instructor or IA, who will act as your client as well
 * Philip
 
 #### Group 5
-Brendan
-Lisa
-Stephanie
-Chris
+* Brendan
+* Lisa
+* Stephanie
+* Chris
 
 
 ## Presentation
