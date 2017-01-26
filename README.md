@@ -59,13 +59,13 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 Each group has an assigned instructor or IA, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Group 1
+#### Group 1 - Maren
 * John
 * Kim
 * Ramata 
 * Nick
 
-#### Group 2
+#### Group 2 
 * Katie
 * Austin
 * Josh
@@ -75,12 +75,12 @@ Each group has an assigned instructor or IA, who will act as your client as well
 * Christina
 * Van
 * Jungmin
+* Jacob
 
 #### Group 4
 * Perry
 * Waller
 * Philip
-* Jacob
 
 #### Group 5
 * Brendan
