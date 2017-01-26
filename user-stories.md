@@ -73,7 +73,7 @@ A user CANNOT save invalid data to the database, according to the following rule
 
 ---
 
-## Sprint 4: Commenting
+## Sprint 4: Comment your code
 1. Comment your code!!!
   * This will help you later when you come back to your code, or help you explain to potential employers how your code works.
 

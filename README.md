@@ -122,7 +122,6 @@ You will be evaluated on the following measures:
   - code demonstrates good problem solving
   - code is DRY
 1. Technical requirements
-  - users are authenticated
   - full CRUD for cities
   - custom HTML, CSS, and JavaScript (using the asset pipeline)
   - deployed to heroku
