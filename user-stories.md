@@ -17,7 +17,7 @@
 
 **A user should be able to:**
 
-1. Link to other pages from homepage.
+1. Link to Atlanta city from homepage.
 1. View the "Atlanta" page (at "/cities/1") including:
   * The site-wide header.
   * The name of the city.
