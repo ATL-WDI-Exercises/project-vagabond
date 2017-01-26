@@ -69,22 +69,22 @@ Each group has an assigned instructor or IA, who will act as your client as well
 * Katie
 * Austin
 * Josh
+* Stephanie
 
 #### Group 3
 * Christina
 * Van
-* Jacob
 * Jungmin
 
 #### Group 4
 * Perry
 * Waller
 * Philip
+* Jacob
 
 #### Group 5
 * Brendan
 * Lisa
-* Stephanie
 * Chris
 
 
