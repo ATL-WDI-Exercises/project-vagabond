@@ -90,7 +90,7 @@ Each group has an assigned instructor or IA, who will act as your client as well
 
 ## Presentation
 
-Each group will present their project on **Monday, 1/30** starting at **11am** for 10 minutes.
+Each group will present their project on **Monday, 1/30** starting at **11am** for **10 minutes**.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
