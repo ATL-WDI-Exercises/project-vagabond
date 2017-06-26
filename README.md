@@ -26,7 +26,7 @@ During morning scrums and in smaller check-ins throughout the day, clearly commu
 
 Commit changes at least once for each user story.
 
-Put effort into your **design**. Use a CSS framework (e.g. Bootstrap), partials, and some custom CSS or Sass/Less.
+Put effort into your **design**. Use a CSS framework (e.g. Bootstrap, Materializes), partials, and some custom CSS or Sass/Less.
 
 Work as **[git collaborators](./git-collaboration-workflow.md), build on feature branches, and submit pull requests for approval and merging**.
 
@@ -59,21 +59,21 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 Each group has an assigned instructor, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Group 1 - 
+#### Group 1 - Monica, Christy, Jeff
 
-#### Group 2 - 
+#### Group 2 - Chris, Yeni, Kate
 
-#### Group 3 - 
-
+#### Group 3 - Ben, William, Clark
+<!--
 #### Group 4 - 
 
-#### Group 5 - 
+#### Group 5 - -->
 
 
 
 ## Presentation
 
-Each group will present their project on **Monday, 5/1** starting at **10am** for **10 minutes**.
+Each group will present their project on **Thursday, 6/29** starting at **3:30pm** for **10 minutes**.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
