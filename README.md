@@ -91,24 +91,26 @@ Each member of your group should speak for equal parts during your presentation 
 
 You will be evaluated on the following measures:
 
-1. Project workflow
-  - frequent commits with good commit messages
-  - effective use of branches
-  - planning to avoid excessive merge conflicts
-  - deliberate approach - routeside-in, logical progress from skateboard to car
-  - the code is your original code
-1. Execution
-  - to what degree does your app fulfill the user stories?
-  - code is clean
-  - follows good naming conventions
-  - code is free of obvious errors and bugs
-  - code demonstrates good problem solving
-  - code is DRY
-1. Technical requirements
-  - full CRUD for cities
-  - custom HTML, CSS, and JavaScript (using the asset pipeline)
-  - deployed to heroku
-  - commenting (optional)
-1. Creativity
-  - polished appearance
-  - personalized spin, not just a template
+1. **Project workflow**
+  - Frequent commits with good commit messages
+  - Effective use of branches
+  - Planning to avoid excessive merge conflicts
+  - Deliberate approach - routeside-in, logical progress from skateboard to car
+  - The code is your original code
+2. **Execution**
+  - To what degree does your app fulfill the user stories?
+  - Code is clean
+  - Follows good naming conventions
+  - Code is free of obvious errors and bugs
+  - Code demonstrates good problem solving
+  - Code is DRY
+3. **Technical requirements**
+  - Full CRUD for cities
+  - Custom HTML, CSS, and JavaScript (using the asset pipeline)
+  - Commenting (optional)
+4. **Creativity**
+  - Polished appearance
+  - Personalized spin, not just a template
+5. **Deployment and Functionalit**
+  - Deployed to Heroku
+  - Working application that would be make your client satisfied
