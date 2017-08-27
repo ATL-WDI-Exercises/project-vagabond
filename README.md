@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project Vagabond
+<!-- # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project Vagabond
 
 
 ## Brief
@@ -116,4 +116,4 @@ You will be evaluated on the following measures:
   - Personalized spin, not just a template
 5. **Deployment and Functionality**
   - Deployed to Heroku
-  - Working application that would be make your client satisfied
+  - Working application that would be make your client satisfied -->
