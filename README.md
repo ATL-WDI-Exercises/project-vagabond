@@ -46,7 +46,7 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 1. **Are you all clear about what the client wants?** Identify vague areas. Seek clarification in any cases where you feel less confident about your interpretation of the client's vision.
 
-2. **What will the UX/UI flow be?** Hammer out any areas of ambiguity in the wireframes
+2. **What will the UX/UI flow be?** Hammer out any areas of ambiguity in the wire frames
 
 3. **Which models do you need to implement?** Create an ERD for the client to reference.
 
@@ -59,21 +59,24 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 Each group has an assigned instructor, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Group 1 - Monica, Christy, Jeff
+#### Group 1 - Aubrey, Will H, CT, Sean
 
-#### Group 2 - Chris, Yeni, Kate
+#### Group 2 - Hunter, Dan, Jay, Kris
 
-#### Group 3 - Ben, William, Clark
-<!--
-#### Group 4 - 
+#### Group 3 - Richard, Rory, David W, Eric
 
-#### Group 5 - -->
+#### Group 4 - Jess G, Cyd, Susy, Jace
 
+#### Group 5 - Burns, Mike, Jess Matty, Ashleigh
+
+#### Group 6 - Joey, Edgar, David K
+
+#### Group 7 - Jonathan, Jessica O, Will L
 
 
 ## Presentation
 
-Each group will present their project on **Thursday, 6/29** starting at **3:30pm** for **10 minutes**.
+Each group will present their project on **Friday, 9/01** starting at **2:00pm** for **10 minutes**.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
@@ -81,7 +84,7 @@ Each member of your group should speak for equal parts during your presentation 
 
 * [Pitch Deck](http://bestpitchdecks.com/) (a link to the best pitch decks)
   * [Haiku Deck](https://www.haikudeck.com/)
-* Tour (demo) of your app deployed on heroku.
+* Tour (demo) of your app deployed on Heroku.
 * How did your group approach the requirements? (mention anything unique or creative your group chose to do)
 * What was easier than you thought? What was more challenging?
 * Shout outs for fellow students!
@@ -95,7 +98,7 @@ You will be evaluated on the following measures:
   - Frequent commits with good commit messages
   - Effective use of branches
   - Planning to avoid excessive merge conflicts
-  - Deliberate approach - routeside-in, logical progress from skateboard to car
+  - Deliberate approach - route side-in, logical progress from skateboard to car
   - The code is your original code
 2. **Execution**
   - To what degree does your app fulfill the user stories?
@@ -111,6 +114,6 @@ You will be evaluated on the following measures:
 4. **Creativity**
   - Polished appearance
   - Personalized spin, not just a template
-5. **Deployment and Functionalit**
+5. **Deployment and Functionality**
   - Deployed to Heroku
   - Working application that would be make your client satisfied
