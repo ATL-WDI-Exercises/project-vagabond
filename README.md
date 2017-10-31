@@ -59,24 +59,12 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 Each group has an assigned instructor, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Group 1 - Aubrey, Will H, CT, Sean
-
-#### Group 2 - Hunter, Dan, Jay, Kris
-
-#### Group 3 - Richard, Rory, David W, Eric
-
-#### Group 4 - Jess G, Cyd, Susy, Jace
-
-#### Group 5 - Burns, Mike, Jess Matty, Ashleigh
-
-#### Group 6 - Joey, Edgar, David K
-
-#### Group 7 - Jonathan, Jessica O, Will L
+**TBA**
 
 
 ## Presentation
 
-Each group will present their project on **Friday, 9/01** starting at **2:00pm** for **10 minutes**.
+Each group will present their project on **Friday, 11/03** starting at **3:00pm** for **10 minutes**.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
