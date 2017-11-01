@@ -54,7 +54,7 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 5. **What milestones are you and your group members interested in working on?** How can you effectively delegate the work so that each group member is interested, challenged, and productive?
 
-### Pair-programming Techniques:
+## Pair-programming Techniques:
 #### There are several ways to pair-program, but here are a few of the most popular:
 
 * **Ping-Pong** - One programmer implements a unit of code, and the other programmer 
