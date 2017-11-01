@@ -59,7 +59,19 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 Each group has an assigned instructor, who will act as your client as well as give technical support during instructor-group meetings.
 
-**TBA**
+Group 1- Nate Hodges, Leon Carswell, Rory Johnson, James Peterson
+
+Group 2- Prakesh Rai,  Skylar Youmans, Grant Spell, Blake Pitts
+
+Group 3- Glenn Brown, Tory Redner, Chris Mears, Khalif Cooper
+
+Group 4- Jaden Poole, Mark Flores, Brad Farrell,  James Royals
+
+Group 5- Jayme Marshall, Aaron Trammell, Hunter Maddux, Brandon Reily 
+
+Group 6- Erica Hinchman, Jonathan Hamer, Musa Sillah
+
+Group 7- Thomas Beauregard, Victoria Temple, Andre Robinson
 
 
 ## Presentation
